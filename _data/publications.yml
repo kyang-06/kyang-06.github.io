@@ -3,7 +3,7 @@ main:
   - title: Grid Convolution for 3D Human Pose Estimation
     authors: <strong>Yangyuxuan Kang</strong>, Dongqi Cai, Yuyang Liu, Anbang Yao, Shandong Wang, Yurong Chen, Enhua Wu
     conference_short: T-PAMI
-    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence 2025
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2025
     pdf: 
     bibtex: 
     code: https://github.com/OSVAI/gridconv
@@ -12,16 +12,16 @@ main:
   - title: Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition
     authors: Dongqi Cai, <strong>Yangyuxuan Kang</strong>, Anbang Yao, Yurong Chen
     conference_short: ICML
-    conference: International Conference on Machine Learning, 2023.
+    conference: International Conference on Machine Learning (ICML), 2023.
     pdf: https://proceedings.mlr.press/v202/cai23c/cai23c.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:vQpT8BHujl0J:scholar.google.com/&output=citation&scisdr=Crzije9NEJzgvoAl3H8:ALhkC2QAAAAAaTgjxH_yCp6BUn0A61GPtlg4VWY&scisig=ALhkC2QAAAAAaTgjxNSZAaAusH51-PselNUcGlk&scisf=4&ct=citation&cd=-1&hl=en
     code: https://github.com/OSVAI/Ske2Grid
-    image: 
+    image: https://github.com/OSVAI/Ske2Grid/raw/main/fig/Picture1.png
 
   - title: 3D Human Pose Lifting with Grid Convolution
     authors: <strong>Yangyuxuan Kang</strong>, Yuyang Liu, Anbang Yao, Shandong Wang, Enhua Wu
     conference_short: AAAI
-    conference: AAAI Conference on Artificial Intelligence (AAAI).
+    conference: AAAI Conference on Artificial Intelligence (AAAI), 2023.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/25192/24964
     code: https://github.com/OSVAI/gridconv
     bibtex: https://dblp.org/rec/journals/corr/abs-2407-09271.html?view=bibtex
@@ -31,7 +31,7 @@ main:
   - title: 3D Human Body Reconstruction with Shadow
     authors: <strong>Yangyuxuan Kang</strong>, Jian Shi, Lixin Ren, Yanli Liu, Enhua Wu
     conference_short: CAD&CG
-    conference: Journal of Computer-Aided Design & Computer Graphics.
+    conference: Journal of Computer-Aided Design & Computer Graphics, 2023.
     pdf: https://www.jcad.cn/en/article/pdf/preview/10.3724/SP.J.1089.2023.19743.pdf
     bibtex: 
     image: 
