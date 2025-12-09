@@ -3,7 +3,7 @@ title: Yangyuxuan Kang
 position: AI Research Scientist
 affiliation: Intel
 affiliation_link: https://www.intel.com/
-affiliation_logo: ./assets/img/intel.svg
+affiliation_logo: ./assets/img/Intel_idF_neNFIz_1.png
 email: yangyuxuan.kang (at) intel.com
 
 # Search Engine Optimization (SEO)
@@ -22,7 +22,7 @@ google_scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl
 github_link: https://github.com/kyang-06
 
 # Images 
-avatar: 
+avatar: ./assets/img/profile.jpg
 
 # The following files will be removed from the generated website.
 exclude:
