@@ -11,6 +11,5 @@ His research interests lie at the intersection of 3D Computer Vision and Large L
 
 Previously, he obtained PhD in Computer Science from [Institute of Software, Chinese Academy of Sciences (ISCAS)](https://is.cas.cn/), supervised by Prof. [Enhua Wu](https://people.ucas.edu.cn/~ehwu). 
 
-{% include_relative _includes/news.md %}
+{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/contact.md %}
