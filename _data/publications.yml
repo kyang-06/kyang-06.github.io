@@ -1,23 +1,21 @@
 main:
 
-  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
-    authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
-    conference_short: NeurIPS
-    conference: NeurIPS 2024 Datasets and Benchmarks Track.
-    pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
-    bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
-    data: https://github.com/wufeim/imagenet3d
-    page: https://imagenet3d.github.io/
-    image: https://img.yliu.me/teaser/imagenet3d.png
+  - title: "Grid Convolution for 3D Human Pose Estimation"
+    authors: <strong>Yangyuxuan Kang</strong>, Dongqi Cai, Yuyang Liu, Anbang Yao, Shandong Wang, Yurong Chen, Enhua Wu
+    conference_short: T-PAMI
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence 2025
+    pdf: 
+    bibtex: 
+    image: 
 
-  - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
-    authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
-    conference_short: NeurIPS
-    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://www.cs.jhu.edu/~alanlab/Pubs24/cai2024hdr-gs.pdf
-    bibtex: https://dblp.org/rec/journals/corr/abs-2405-15125.html?view=bibtex
-    code: https://github.com/caiyuanhao1998/HDR-GS
-    image: https://img.yliu.me/teaser/hdr-gs.png
+  - title: "Ske2Grid: skeleton-to-grid representation learning for action recognition"
+    authors: Dongqi Cai, <strong>Yangyuxuan Kang</strong>, Anbang Yao, Yurong Chen
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2023.
+    pdf: https://proceedings.mlr.press/v202/cai23c/cai23c.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:vQpT8BHujl0J:scholar.google.com/&output=citation&scisdr=Crzije9NEJzgvoAl3H8:ALhkC2QAAAAAaTgjxH_yCp6BUn0A61GPtlg4VWY&scisig=ALhkC2QAAAAAaTgjxNSZAaAusH51-PselNUcGlk&scisf=4&ct=citation&cd=-1&hl=en
+    code: 
+    image: 
 
   - title: "iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning"
     authors: Tom Fischer, <strong>Yaoyao Liu</strong>, Artur Jesslen, Noor Ahmed, Prakhar Kaushik, Angtian Wang, Alan Yuille, Adam Kortylewski, Eddy Ilg
