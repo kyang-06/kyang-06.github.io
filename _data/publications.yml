@@ -1,6 +1,6 @@
 main:
 
-  - title: Grid Convolution for 3D Human Pose Estimation
+  - title: "Grid Convolution for 3D Human Pose Estimation"
     authors: <strong>Yangyuxuan Kang</strong>, Dongqi Cai, Yuyang Liu, Anbang Yao, Shandong Wang, Yurong Chen, Enhua Wu
     conference_short: T-PAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2025
@@ -9,7 +9,7 @@ main:
     code: https://github.com/OSVAI/gridconv
     image: ./assets/img/gridconv-tpami.png
 
-  - title: Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition
+  - title: "Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition"
     authors: Dongqi Cai, <strong>Yangyuxuan Kang</strong>, Anbang Yao, Yurong Chen
     conference_short: ICML
     conference: International Conference on Machine Learning (ICML), 2023.
@@ -18,7 +18,7 @@ main:
     code: https://github.com/OSVAI/Ske2Grid
     image: https://github.com/OSVAI/Ske2Grid/raw/main/fig/Picture1.png
 
-  - title: 3D Human Pose Lifting with Grid Convolution
+  - title: "3D Human Pose Lifting with Grid Convolution"
     authors: <strong>Yangyuxuan Kang</strong>, Yuyang Liu, Anbang Yao, Shandong Wang, Enhua Wu
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence (AAAI), 2023.
@@ -28,7 +28,7 @@ main:
     image: https://github.com/OSVAI/GridConv/raw/main/assets/internet%20video.gif
     notes: Oral
 
-  - title: 3D Human Body Reconstruction with Shadow
+  - title: "3D Human Body Reconstruction with Shadow"
     authors: <strong>Yangyuxuan Kang</strong>, Jian Shi, Lixin Ren, Yanli Liu, Enhua Wu
     conference_short: CAD&CG
     conference: Journal of Computer-Aided Design & Computer Graphics, 2023.
@@ -37,7 +37,7 @@ main:
     image: 
     notes: Chinagraph 2022 recommended to CAD&CG    
 
-  - title: We Are Not So Similar: Alleviating User Representation Collapse in Social Recommendation
+  - title: "We Are Not So Similar: Alleviating User Representation Collapse in Social Recommendation"
     authors: Bingchao Wu, <strong>Yangyuxuan Kang</strong>, Bei Guan, Yongji Wang
     conference_short: ICMR
     conference: ACM International Conference on Multimedia Retrieval, 2023.
@@ -45,7 +45,7 @@ main:
     bibtex: 
     image: 
 
-  - title: Hierarchical and Contrastive Representation Learning for Knowledge-Aware Recommendation
+  - title: "Hierarchical and Contrastive Representation Learning for Knowledge-Aware Recommendation"
     authors: Bingchao Wu, <strong>Yangyuxuan Kang</strong>, Daoguang Zan, Bei Guan, Yongji Wang
     conference_short: ICME
     conference: IEEE International Conference on Multimedia and Expo (ICME), 2023
@@ -53,14 +53,14 @@ main:
     bibtex: 
     image: 
     
-  - title: Enhancing Sequential Recommendation via Decoupled Knowledge Graphs
+  - title: "Enhancing Sequential Recommendation via Decoupled Knowledge Graphs"
     authors: Bingchao Wu, Chenglong Deng, Bei Guan, Yongji Wang, <strong>Yangyuxuan Kang</strong>
     conference_short: ESWC
     conference: European Semantic Web Conference (ESWC), 2022.
     pdf: https://2022.eswc-conferences.org/wp-content/uploads/2022/05/paper_28_Wu_et_al.pdf
     image: 
     
-  - title: Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations
+  - title: "Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations"
     authors: <strong>Yangyuxuan Kang</strong>, Anbang Yao, Shandong Wang, Ming Lu, Yurong Chen, Enhua Wu
     conference_short: BMVC
     conference: The British Machine Vision Conference (BMVC), 2020.
