@@ -43,7 +43,7 @@ main:
     conference: ACM International Conference on Multimedia Retrieval, 2023.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3591106.3592244
     bibtex: 
-    image: https://dl.acm.org/cms/attachment/html/10.1145/3591106.3592244/assets/html/images/icmr23-32-fig2.jpg
+    image: ./assets/img/icmr_23.jpg
 
   - title: "Hierarchical and Contrastive Representation Learning for Knowledge-Aware Recommendation"
     authors: Bingchao Wu, <strong>Yangyuxuan Kang</strong>, Daoguang Zan, Bei Guan, Yongji Wang
