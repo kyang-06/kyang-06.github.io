@@ -1,5 +1,14 @@
 main:
 
+  - title: "SliderQuant: Accurate Post-Training Quantization for LLMs"
+    authors: Shigeng Wang, Chao Li, <strong>Yangyuxuan Kang</strong>, Jiawei Fan, Zhonghong Ou, Anbang Yao
+    conference_short: ICLR
+    conference: International Conference on Learning Representations (ICLR), 2026.
+    pdf: https://arxiv.org/abs/2603.25284
+    code: https://github.com/deep-optimization/SliderQuant
+    page: https://openreview.net/forum?id=YNqZqw4fLT
+    image: https://github.com/deep-optimization/SliderQuant/raw/main/asserts/main-fig.png
+
   - title: "Grid Convolution for 3D Human Pose Estimation"
     authors: <strong>Yangyuxuan Kang</strong>, Dongqi Cai, Yuyang Liu, Anbang Yao, Shandong Wang, Yurong Chen, Enhua Wu
     conference_short: T-PAMI
