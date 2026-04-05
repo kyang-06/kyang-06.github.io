@@ -6,7 +6,6 @@ main:
     conference: International Conference on Learning Representations (ICLR), 2026.
     pdf: https://arxiv.org/abs/2603.25284
     code: https://github.com/deep-optimization/SliderQuant
-    page: https://openreview.net/forum?id=YNqZqw4fLT
     image: https://github.com/deep-optimization/SliderQuant/raw/main/asserts/main-fig.png
 
   - title: "Grid Convolution for 3D Human Pose Estimation"
