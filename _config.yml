@@ -10,9 +10,6 @@ email: yangyuxuan.kang (at) intel.com
 keywords: yangyuxuan kang, kang yangyuxuan, kangyang yuxuan, yuxuan kangyang
 description: Yangyuxuan Kang works as an AI Research Scientist at Intel. His research interests lie at digital human, efficient LLM inference and knowledge graph.
 
-# The option is used to enable the Illinois template.
-enable_hopkins_logo: true
-
 # The option is used to show the last update time.
 enable_last_update: false
 
