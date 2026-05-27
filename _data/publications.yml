@@ -4,7 +4,8 @@ main:
     authors: Shigeng Wang, Chao Li, <strong>Yangyuxuan Kang</strong>, Jiawei Fan, Anbang Yao
     conference_short: ICML
     conference: International Conference on Machine Learning (ICML), 2026.
-    notes: Oral
+    image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWeXGPoLlCC6_xLVrdZyeTN0US1twucLA6A&s
+    notes: Oral (0.7% of total submissions)
 
   - title: "SliderQuant: Accurate Post-Training Quantization for LLMs"
     authors: Shigeng Wang, Chao Li, <strong>Yangyuxuan Kang</strong>, Jiawei Fan, Zhonghong Ou, Anbang Yao
