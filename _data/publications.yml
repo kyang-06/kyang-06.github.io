@@ -3,14 +3,14 @@ main:
   - title: "CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs"
     authors: Shigeng Wang, Chao Li, <strong>Yangyuxuan Kang</strong>, Jiawei Fan, Anbang Yao
     conference_short: ICML
-    conference: International Conference on Machine Learning (ICML), 2026.
+    conference: International Conference on Machine Learning, 2026.
     image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWeXGPoLlCC6_xLVrdZyeTN0US1twucLA6A&s
     notes: Oral (0.7% of total submissions)
 
   - title: "SliderQuant: Accurate Post-Training Quantization for LLMs"
     authors: Shigeng Wang, Chao Li, <strong>Yangyuxuan Kang</strong>, Jiawei Fan, Zhonghong Ou, Anbang Yao
     conference_short: ICLR
-    conference: International Conference on Learning Representations (ICLR), 2026.
+    conference: International Conference on Learning Representations, 2026.
     pdf: https://arxiv.org/abs/2603.25284
     code: https://github.com/deep-optimization/SliderQuant
     image: https://github.com/deep-optimization/SliderQuant/raw/main/asserts/main-fig.png
@@ -18,8 +18,8 @@ main:
   - title: "Grid Convolution for 3D Human Pose Estimation"
     authors: <strong>Yangyuxuan Kang</strong>, Dongqi Cai, Yuyang Liu, Anbang Yao, Shandong Wang, Yurong Chen, Enhua Wu
     conference_short: T-PAMI
-    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2025
-    pdf: 
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025
+    pdf: https://ieeexplore.ieee.org/document/11274401
     bibtex: 
     code: https://github.com/OSVAI/gridconv
     image: ./assets/img/gridconv-tpami.png
@@ -27,7 +27,7 @@ main:
   - title: "Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition"
     authors: Dongqi Cai, <strong>Yangyuxuan Kang</strong>, Anbang Yao, Yurong Chen
     conference_short: ICML
-    conference: International Conference on Machine Learning (ICML), 2023.
+    conference: International Conference on Machine Learning, 2023.
     pdf: https://proceedings.mlr.press/v202/cai23c/cai23c.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:vQpT8BHujl0J:scholar.google.com/&output=citation&scisdr=Crzije9NEJzgvoAl3H8:ALhkC2QAAAAAaTgjxH_yCp6BUn0A61GPtlg4VWY&scisig=ALhkC2QAAAAAaTgjxNSZAaAusH51-PselNUcGlk&scisf=4&ct=citation&cd=-1&hl=en
     code: https://github.com/OSVAI/Ske2Grid
@@ -36,7 +36,7 @@ main:
   - title: "3D Human Pose Lifting with Grid Convolution"
     authors: <strong>Yangyuxuan Kang</strong>, Yuyang Liu, Anbang Yao, Shandong Wang, Enhua Wu
     conference_short: AAAI
-    conference: AAAI Conference on Artificial Intelligence (AAAI), 2023.
+    conference: AAAI Conference on Artificial Intelligence, 2023.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/25192/24964
     code: https://github.com/OSVAI/gridconv
     bibtex: https://dblp.org/rec/journals/corr/abs-2407-09271.html?view=bibtex
@@ -63,7 +63,7 @@ main:
   - title: "Hierarchical and Contrastive Representation Learning for Knowledge-Aware Recommendation"
     authors: Bingchao Wu, <strong>Yangyuxuan Kang</strong>, Daoguang Zan, Bei Guan, Yongji Wang
     conference_short: ICME
-    conference: IEEE International Conference on Multimedia and Expo (ICME), 2023
+    conference: IEEE International Conference on Multimedia and Expo, 2023
     pdf: https://arxiv.org/pdf/2304.07506
     bibtex: 
     image: ./assets/img/HiCON.png
@@ -78,7 +78,7 @@ main:
   - title: "Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations"
     authors: <strong>Yangyuxuan Kang</strong>, Anbang Yao, Shandong Wang, Ming Lu, Yurong Chen, Enhua Wu
     conference_short: BMVC
-    conference: The British Machine Vision Conference (BMVC), 2020.
+    conference: The British Machine Vision Conference, 2020.
     pdf: https://www.bmva-archive.org.uk/bmvc/2020/assets/papers/0151.pdf
     code: https://github.com/kyang-06/ERD_3DPose
     bibtex: 
