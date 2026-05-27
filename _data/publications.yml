@@ -1,5 +1,11 @@
 main:
 
+  - title: "CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs"
+    authors: Shigeng Wang, Chao Li, <strong>Yangyuxuan Kang</strong>, Jiawei Fan, Anbang Yao
+    conference_short: ICML
+    conference: International Conference on Machine Learning (ICML), 2026.
+    notes: Oral
+
   - title: "SliderQuant: Accurate Post-Training Quantization for LLMs"
     authors: Shigeng Wang, Chao Li, <strong>Yangyuxuan Kang</strong>, Jiawei Fan, Zhonghong Ou, Anbang Yao
     conference_short: ICLR
